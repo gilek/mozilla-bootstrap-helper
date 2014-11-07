@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-helper",
+  "title": "bootstrap-helper",
+  "id": "jid1-CvdrB5gCbVpMwg",
+  "description": "Simple extension that inform about actual displaying column of Twitter Bootstrap 3.",
+  "author": "Maciej Kłak",
+  "license": "MPL 2.0",
+  "version": "1.1.0-alpha",
+  "icon": "data/logo.png"  
+}
