@@ -7,7 +7,7 @@ var BootstrapHelper = {
 		if (document instanceof HTMLDocument && document.body !== undefined) {
 			var element = document.createElement("div");
 			element.setAttribute("id", this.elementId);
-			element.setAttribute("style", "opacity=0");
+			element.setAttribute("style", "width:0; height: 0;");
 
 			for each(var size in ["xs", "sm", "md", "lg"]) {
 				var span = document.createElement("span");
